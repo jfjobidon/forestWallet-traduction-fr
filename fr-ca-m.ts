@@ -5,7 +5,7 @@
 export default {
   AuthenticationScreen: {
     authenticationDescription: "Authenticate to continue",
-    setUp: "Set up Biometric Authentication",
+    setUp: "Configurer authentification biométrique",
     setUpAuthenticationDescription: "Use biometric to authenticate",
     skip: "Skip",
     unlock: "Unlock",
