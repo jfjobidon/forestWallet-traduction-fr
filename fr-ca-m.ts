@@ -382,7 +382,7 @@ export default {
           { // JFJ:
             answers: [
               "0.00000001 BTC",
-              "One whole bitcoin. It is not possible to use anything less.",
+              "Un bitcoin entier. Il est impossible d'utiliser moins de un bitcoin.",
               "0.01 BTC",
             ],
             feedback: [
