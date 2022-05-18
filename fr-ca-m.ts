@@ -379,7 +379,7 @@ export default {
             title: "Special Characteristic #3: \nNo Counterfeit Money",
             type: "Text",
           },
-          {
+          { // JFJ:
             answers: [
               "0.00000001 BTC",
               "One whole bitcoin. It is not possible to use anything less.",
