@@ -4,9 +4,9 @@
 /* eslint-disable max-lines */
 export default {
   AuthenticationScreen: {
-    authenticationDescription: "Authenticate to continue",
+    authenticationDescription: "Authentifier vous pour continuer",
     setUp: "Configurer authentification biométrique",
-    setUpAuthenticationDescription: "Use biometric to authenticate",
+    setUpAuthenticationDescription: "Utiliser l'authentification biométrique",
     skip: "Skip",
     unlock: "Unlock",
     usePin: "Use PIN",
