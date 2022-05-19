@@ -1,6 +1,9 @@
-bitcoin pieces      -> unités
-skip                -> Sauter cette étape          
-PIN                 -> NIP
-current balance     -> Solde actuel
-tap                 -> Appuyer
-digital money       -> Monnaie numérique    
+bitcoin pieces              -> unités bitcoin
+skip                        -> Sauter cette étape          
+PIN                         -> NIP
+current balance             -> Solde actuel
+tap                         -> Appuyer
+digital money               -> Monnaie numérique    
+Old-fashioned fiat money    -> monnaie fiat désuette (archaïque ?)
+US dollar                   -> dollar canadien (euro)
+hacked                      -> hacké ?
