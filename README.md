@@ -14,3 +14,14 @@ n'est pas supporté : masculin, féminin ???
 
 
 fichier anglais error: Lnurl address has been copied in the clipboard
+
+Je ne veux pas te harceler: un peu fort....
+
+restart: "Recommencer",
+
+setAnAmount: "Fixer un montant",  // entrez un montant ?
+
+text message : SMS ?
+
+tippingLink: {
+    title: "Vous souhaitez recevoir des pourboires? Partagez votre lien de pourboires!",
