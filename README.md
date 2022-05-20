@@ -25,3 +25,7 @@ text message : SMS ?
 
 tippingLink: {
     title: "Vous souhaitez recevoir des pourboires? Partagez votre lien de pourboires!",
+
+
+monnaie fiat vs fiducière
+l'argent fiat et monnaie fiduciaire
